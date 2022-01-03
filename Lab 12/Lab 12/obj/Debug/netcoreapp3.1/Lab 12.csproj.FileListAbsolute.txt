@@ -1,0 +1,14 @@
+C:\Saha Angel spasitel\Lab 12\Lab 12\bin\Debug\netcoreapp3.1\Lab 12.exe
+C:\Saha Angel spasitel\Lab 12\Lab 12\bin\Debug\netcoreapp3.1\Lab 12.deps.json
+C:\Saha Angel spasitel\Lab 12\Lab 12\bin\Debug\netcoreapp3.1\Lab 12.runtimeconfig.json
+C:\Saha Angel spasitel\Lab 12\Lab 12\bin\Debug\netcoreapp3.1\Lab 12.runtimeconfig.dev.json
+C:\Saha Angel spasitel\Lab 12\Lab 12\bin\Debug\netcoreapp3.1\Lab 12.dll
+C:\Saha Angel spasitel\Lab 12\Lab 12\bin\Debug\netcoreapp3.1\Lab 12.pdb
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.csproj.AssemblyReference.cache
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.AssemblyInfoInputs.cache
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.AssemblyInfo.cs
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.csproj.CoreCompileInputs.cache
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.dll
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.pdb
+C:\Saha Angel spasitel\Lab 12\Lab 12\obj\Debug\netcoreapp3.1\Lab 12.genruntimeconfig.cache
